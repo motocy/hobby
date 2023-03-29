@@ -1,4 +1,5 @@
 # 게임종류
 
-1.lol
-2.sudden attack
+1. lol
+2. sudden attack
+3. starcraft
